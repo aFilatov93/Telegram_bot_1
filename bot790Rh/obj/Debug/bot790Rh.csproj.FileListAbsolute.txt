@@ -1,0 +1,12 @@
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\obj\Debug\bot790Rh.csprojResolveAssemblyReference.cache
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\obj\Debug\bot790Rh.MainForm.resources
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\obj\Debug\bot790Rh.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\bot790Rh.exe.config
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\bot790Rh.exe
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\bot790Rh.pdb
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\Newtonsoft.Json.dll
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\Telegram.Bot.dll
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\Newtonsoft.Json.xml
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\bin\Debug\Telegram.Bot.xml
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\obj\Debug\bot790Rh.exe
+C:\SharpDevelop Projects\bot790Rh\bot790Rh\obj\Debug\bot790Rh.pdb
